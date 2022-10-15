@@ -1,0 +1,33 @@
+.bigbutton {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 25px; PADDING-BOTTOM: 4px; MARGIN: 15px 5px; COLOR: white; PADDING-TOP: 4px; BACKGROUND-COLOR: #3333ff; TEXT-DECORATION: none
+}
+.vetsi {
+	FONT-SIZE: 14pt
+}
+BODY {
+	FONT-SIZE: 12pt; COLOR: #cccc00; FONT-FAMILY: Times New Roman,serif; BACKGROUND-COLOR: black
+}
+CODE {
+	COLOR: #c0c0c0; FONT-STYLE: normal; FONT-FAMILY: Courier New, Courier, monospace
+}
+EM {
+	FONT-WEIGHT: bold; COLOR: red; FONT-STYLE: normal
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 36pt; COLOR: yellow; FONT-STYLE: italic; FONT-FAMILY: Arial,sans-serif; TEXT-ALIGN: center
+}
+H2 {
+	FONT-SIZE: 18pt; MARGIN: 0px; COLOR: red; FONT-FAMILY: Times New Roman,serif; TEXT-ALIGN: center
+}
+H3 {
+	FONT-SIZE: 14pt; MARGIN: 10px; COLOR: yellow; FONT-FAMILY: Times New Roman,serif
+}
+A:link {
+	COLOR: #3333ff
+}
+A:visited {
+	COLOR: teal
+}
+A:active {
+	COLOR: aqua
+}

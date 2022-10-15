@@ -1,0 +1,12 @@
+img
+{
+	border-width: 0;
+}
+
+@media (max-width: 800px)
+{
+	.wide
+	{
+		display: none;
+	}
+}
