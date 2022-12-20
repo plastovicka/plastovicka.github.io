@@ -1,33 +1,67 @@
 .bigbutton {
-	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 25px; PADDING-BOTTOM: 4px; MARGIN: 15px 5px; COLOR: white; PADDING-TOP: 4px; BACKGROUND-COLOR: #3333ff; TEXT-DECORATION: none
+	padding: 4px;
+	font-size: 25px;
+	margin: 15px 5px;
+	color: white;
+	background-color: #3333ff;
+	text-decoration: none;
 }
-.vetsi {
-	FONT-SIZE: 14pt
+
+.center {
+	text-align: center;
 }
-BODY {
-	FONT-SIZE: 12pt; COLOR: #cccc00; FONT-FAMILY: Times New Roman,serif; BACKGROUND-COLOR: black
+
+body {
+	font-size: 12pt;
+	color: #cccc00;
+	font-family: Times New Roman,serif;
+	background-color: black;
 }
-CODE {
-	COLOR: #c0c0c0; FONT-STYLE: normal; FONT-FAMILY: Courier New, Courier, monospace
+
+code {
+	color: #c0c0c0;
+	font-style: normal;
+	font-family: Courier New,Courier,monospace;
 }
-EM {
-	FONT-WEIGHT: bold; COLOR: red; FONT-STYLE: normal
+
+em {
+	font-size: 14pt;
+	font-weight: bold;
+	color: red;
+	font-style: normal;
 }
-H1 {
-	FONT-WEIGHT: bold; FONT-SIZE: 36pt; COLOR: yellow; FONT-STYLE: italic; FONT-FAMILY: Arial,sans-serif; TEXT-ALIGN: center
+
+pre span {
+	font-family: initial;
 }
-H2 {
-	FONT-SIZE: 18pt; MARGIN: 0px; COLOR: red; FONT-FAMILY: Times New Roman,serif; TEXT-ALIGN: center
+
+h1 {
+	font-size: 36pt;
+	color: yellow;
+	font-style: italic;
+	font-family: Arial,sans-serif;
+	text-align: center;
 }
-H3 {
-	FONT-SIZE: 14pt; MARGIN: 10px; COLOR: yellow; FONT-FAMILY: Times New Roman,serif
+
+h2 {
+	font-size: 18pt;
+	color: red;
 }
-A:link {
-	COLOR: #3333ff
+
+h3 {
+	font-size: 14pt;
+	margin: 10px;
+	color: yellow;
 }
-A:visited {
-	COLOR: teal
+
+a:link {
+	color: #3333ff;
 }
-A:active {
-	COLOR: aqua
+
+a:visited {
+	color: teal;
+}
+
+a:active {
+	color: aqua;
 }
