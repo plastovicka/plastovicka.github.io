@@ -74,8 +74,7 @@ timeout_match - limit na zápas (v milisekundách, 0=bez limitu)
 max_memory    - limit na maximální spotřebovanou paměť (v bajtech, 0=bez limitu)
 time_left     - zbývající čas do konce partie (v milisekundách)
 game_type     - 0=hra proti člověku, 1=hra proti UI, 2=turnaj, 3=síťový turnaj
-rule          - 0=pět nebo více v řadě vyhrává, 1=přesně pět v řadě vyhrává,
-                2=kontinuální hra, 3=kontinuální a přesně pět v řadě
+rule          - bitová maska neboli součet hodnot: 1=přesně pět v řadě vyhrává, 2=kontinuální hra, 4=renju, 8=caro
 folder        - složka, kam si UI může zapisovat trvalé soubory
 </PRE>
 Složka pro trvalé soubory je společná pro všechny UI, případně i pro jiné aplikace. Proto je UI povinna si v dané složce vytvořit svoji podsložku, jejíž název je stejný jako název UI. Do ní si může ukládat například znalosti a zkušenosti získané během hry.

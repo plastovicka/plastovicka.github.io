@@ -77,8 +77,7 @@ timeout_match - time limit of a whole match (milliseconds, 0=no limit)
 max_memory    - memory limit (bytes, 0=no limit)
 time_left     - remaining time limit of a whole match (milliseconds)
 game_type     - 0=opponent is human, 1=opponent is brain, 2=tournament, 3=network tournament
-rule          - 0=five or more stones in a row win, 1=exactly five in a row win,
-                2=continuous game, 3=continuous and exactly five
+rule          - bitmask or sum of 1=exactly five in a row win, 2=continuous game, 4=renju, 8=caro
 folder        - folder for persistent files
 </pre>
 Folder for persistent files is common for all brains and maybe other applications, therefore the brain must create its own subfolder which name must be the same as the name of the brain. If the manager does not create INFO.DAT file, then the brain cannot store permanent files.
