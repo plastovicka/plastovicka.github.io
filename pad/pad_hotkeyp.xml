@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.51 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Petr Lastovicka</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town>Prague</City_Town>
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country>Czech Republic</Country>
+		<Company_WebSite_URL>https://plastovicka.github.io</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Petr</Author_First_Name>
+			<Author_Last_Name>Laštovička</Author_Last_Name>
+			<Author_Email>lastp@centrum.cz</Author_Email>
+			<Contact_First_Name>Petr</Contact_First_Name>
+			<Contact_Last_Name>Laštovička</Contact_Last_Name>
+			<Contact_Email>lastp@centrum.cz</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>lastp@centrum.cz</Sales_Email>
+			<Support_Email>lastp@centrum.cz</Support_Email>
+			<General_Email>lastp@centrum.cz</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>HotkeyP</Program_Name>
+		<Program_Version>4.10</Program_Version>
+		<Program_Release_Month>05</Program_Release_Month>
+		<Program_Release_Day>28</Program_Release_Day>
+		<Program_Release_Year>2023</Program_Release_Year>
+		<Program_Cost_Dollars>0</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Major Update</Program_Release_Status>
+		<Program_Install_Support>No Install Support</Program_Install_Support>
+		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,WinServer,WinVista,WinXP,Windows 8,Windows 10,Windows 11</Program_OS_Support>
+
+		<Program_Language>English,Catalan,Czech,Danish,Dutch,French,German,Greek,Chinese,ChineseSimplified,Italian,Polish,Portuguese,Russian,Slovak,Spanish,Ukrainian</Program_Language>
+		<Program_Change_Info>Unicode texts and macros, option to run as administrator, Windows 11 is supported</Program_Change_Info>
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>System Utilities::Launchers &amp; Task Managers</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>364496</File_Size_Bytes>
+			<File_Size_K>355</File_Size_K>
+			<File_Size_MB>0.35</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On />
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>hotkeys,shortcuts,keyboard,mouse,remote control,joystick,multimedia keys,launcher</Keywords>
+			<Char_Desc_45>Keyboard and mouse shortcuts</Char_Desc_45>
+			<Char_Desc_80>Keyboard/mouse/WinLIRC/joystick shortcuts and many useful commands</Char_Desc_80>
+			<Char_Desc_250>Keyboard/mouse/WinLIRC/joystick shortcuts for exe files, documents, folders, www pages and commands: shutdown, hibernate, desktop resolution, volume, process priority, eject CD, wallpaper, always on top, hide window, kill process, paste text, ...</Char_Desc_250>
+			<Char_Desc_450>You can assign keyboard shortcuts or mouse shortcuts to any executable file, document, folder or web page. You can also use all multimedia keys, the fourth and fifth mouse buttons, mouse wheel, joystick or remote control (if you install WinLIRC). Other commands are: shutdown, lock computer, start screen saver, send keys to other applications, always on top, change the desktop resolution, set window opacity, audio volume, process priorities, ...</Char_Desc_450>
+			<Char_Desc_2000>Keyboard shortcuts and mouse shortcuts can be assigned to any executable file, document, folder or web page. You can use all multimedia keys, the fourth and fifth mouse buttons, mouse wheel, joystick and remote control (if you install WinLIRC). Other commands are: send keys to other applications, always on top, shutdown, restart, lock computer, start screen saver, change the desktop resolution, set window opacity, audio volume, process priorities, terminate applications, eject CD, set CD speed, show disk free space, empty the recycle bin, delete temporary files, change desktop wallpaper, minimize any application to the system tray, hide window, change window transparency, zoom tool, screenshot to BMP file, paste date/time or any text, ...</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>https://plastovicka.github.io</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>https://plastovicka.github.io/img/hotkeyp.png</Application_Screenshot_URL>
+			<Application_Icon_URL>https://lastp.users.sourceforge.net/ico/hotkeyp.png</Application_Icon_URL>
+			<Application_XML_File_URL>https://plastovicka.github.io/pad/pad_hotkeyp.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://sourceforge.net/projects/hotkeyp/files/hotkeyp.zip</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>GNU General Public License</Distribution_Permissions>
+		<EULA>GNU General Public License</EULA>
+	</Permissions>
+</XML_DIZ_INFO>

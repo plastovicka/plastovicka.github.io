@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.51 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Petr Lastovicka</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town>Prague</City_Town>
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country>Czech Republic</Country>
+		<Company_WebSite_URL>https://plastovicka.github.io</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Petr</Author_First_Name>
+			<Author_Last_Name>Laštovička</Author_Last_Name>
+			<Author_Email>lastp@centrum.cz</Author_Email>
+			<Contact_First_Name>Petr</Contact_First_Name>
+			<Contact_Last_Name>Laštovička</Contact_Last_Name>
+			<Contact_Email>lastp@centrum.cz</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>lastp@centrum.cz</Sales_Email>
+			<Support_Email>lastp@centrum.cz</Support_Email>
+			<General_Email>lastp@centrum.cz</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Color Sudoku</Program_Name>
+		<Program_Version>3.1</Program_Version>
+		<Program_Release_Month>07</Program_Release_Month>
+		<Program_Release_Day>04</Program_Release_Day>
+		<Program_Release_Year>2020</Program_Release_Year>
+		<Program_Cost_Dollars>0</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
+		<Program_Install_Support>No Install Support</Program_Install_Support>
+		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,Win98,WinVista,WinXP,Windows 8,Windows 10,Windows 11</Program_OS_Support>
+		<Program_Language>English,Czech,German,Polish,Russian,Spanish,Swedish,Ukrainian</Program_Language>
+		<Program_Change_Info>Editor, Show candidates, Odd-Even Sudoku, undo/redo works for pencil marks</Program_Change_Info>
+		<Program_Specific_Category>Games</Program_Specific_Category>
+		<Program_Category_Class>Games &amp; Entertainment::Puzzle &amp; Word Games</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>95351</File_Size_Bytes>
+			<File_Size_K>93</File_Size_K>
+			<File_Size_MB>0.09</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>Sudoku,puzzle,board game,Samurai,killer,solver</Keywords>
+			<Char_Desc_45>Sudoku game with numbers, letters or colors.</Char_Desc_45>
+			<Char_Desc_80>Sudoku games - Killer, Greater Than, Consecutive, Odd/Even, Diagonal, Samurai.</Char_Desc_80>
+			<Char_Desc_250>Sudoku games with numbers, letters or colors. Board size can be from 4 to 20 (default size is 9). You can play many variants - Killer, Greater Than, Consecutive, Odd/Even, Diagonal, Samurai. This program contains editor, solver and can create PDF.</Char_Desc_250>
+			<Char_Desc_450>Sudoku puzzle games with numbers, letters or colors.  Board size can be from 4 to 20 (default size is 9). You can play many variants - Killer, Greater Than, Consecutive, Odd/Even, Diagonal, Double, Triple, Butterfly, Flower, Windmill, Samurai. Every puzzle has unique solution. This program also contains editor and solver and it can create PDF which has multiple sudoku per page.</Char_Desc_450>
+			<Char_Desc_2000>Sudoku puzzle games - Killer, Greater Than, Consecutive, Odd/Even, Diagonal, Double, Triple, Butterfly, Flower, Windmill, Samurai. You can choose letters or colors instead of digits. Board size can be from 4 to 20 (default size is 9). Every puzzle has unique solution. The right mouse button is used to draw pencil marks. This program also contains editor and solver and it can create PDF file which has multiple sudoku per page. Other features: show candidates, unlimited undo/redo, save position to file, high scores, hint.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>https://plastovicka.github.io</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>https://plastovicka.github.io/img/sudoku-sohei.png</Application_Screenshot_URL>
+			<Application_Icon_URL>https://lastp.users.sourceforge.net/ico/sudoku.png</Application_Icon_URL>
+			<Application_XML_File_URL>https://plastovicka.github.io/pad/pad_sudoku.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://sourceforge.net/projects/colorsudoku/files/sudoku.zip</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>GNU General Public License</Distribution_Permissions>
+		<EULA>GNU General Public License</EULA>
+	</Permissions>
+</XML_DIZ_INFO>
