@@ -34,10 +34,10 @@
 	</Company_Info>
 	<Program_Info>
 		<Program_Name>HotkeyP</Program_Name>
-		<Program_Version>4.10</Program_Version>
-		<Program_Release_Month>05</Program_Release_Month>
-		<Program_Release_Day>28</Program_Release_Day>
-		<Program_Release_Year>2023</Program_Release_Year>
+		<Program_Version>4.11</Program_Version>
+		<Program_Release_Month>10</Program_Release_Month>
+		<Program_Release_Day>29</Program_Release_Day>
+		<Program_Release_Year>2024</Program_Release_Year>
 		<Program_Cost_Dollars>0</Program_Cost_Dollars>
 		<Program_Cost_Other_Code />
 		<Program_Cost_Other />
@@ -45,16 +45,15 @@
 		<Program_Release_Status>Major Update</Program_Release_Status>
 		<Program_Install_Support>No Install Support</Program_Install_Support>
 		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,WinServer,WinVista,WinXP,Windows 8,Windows 10,Windows 11</Program_OS_Support>
-
-		<Program_Language>English,Catalan,Czech,Danish,Dutch,French,German,Greek,Chinese,ChineseSimplified,Italian,Polish,Portuguese,Russian,Slovak,Spanish,Ukrainian</Program_Language>
+		<Program_Language>English,Catalan,Czech,Danish,Dutch,French,German,Greek,Chinese,ChineseSimplified,Italian,Japanese,Polish,Portuguese,Russian,Slovak,Spanish,Ukrainian</Program_Language>
 		<Program_Change_Info>Unicode texts and macros, option to run as administrator, Windows 11 is supported</Program_Change_Info>
 		<Program_Specific_Category>Utilities</Program_Specific_Category>
 		<Program_Category_Class>System Utilities::Launchers &amp; Task Managers</Program_Category_Class>
 		<Program_System_Requirements />
 		<File_Info>
-			<File_Size_Bytes>364496</File_Size_Bytes>
-			<File_Size_K>355</File_Size_K>
-			<File_Size_MB>0.35</File_Size_MB>
+			<File_Size_Bytes>387038</File_Size_Bytes>
+			<File_Size_K>377</File_Size_K>
+			<File_Size_MB>0.37</File_Size_MB>
 		</File_Info>
 		<Expire_Info>
 			<Has_Expire_Info>N</Has_Expire_Info>
