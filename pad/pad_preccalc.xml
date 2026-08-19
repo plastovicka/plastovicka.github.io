@@ -34,10 +34,10 @@
 	</Company_Info>
 	<Program_Info>
 		<Program_Name>Precise Calculator</Program_Name>
-		<Program_Version>2.9.1</Program_Version>
-		<Program_Release_Month>10</Program_Release_Month>
-		<Program_Release_Day>09</Program_Release_Day>
-		<Program_Release_Year>2025</Program_Release_Year>
+		<Program_Version>3.0</Program_Version>
+		<Program_Release_Month>08</Program_Release_Month>
+		<Program_Release_Day>17</Program_Release_Day>
+		<Program_Release_Year>2026</Program_Release_Year>
 		<Program_Cost_Dollars>0</Program_Cost_Dollars>
 		<Program_Cost_Other_Code />
 		<Program_Cost_Other />
@@ -46,14 +46,14 @@
 		<Program_Install_Support>No Install Support</Program_Install_Support>
 		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,WinServer,WinVista,WinXP,Windows 8,Windows 10,Windows 11</Program_OS_Support>
 		<Program_Language>English,Catalan,Czech,French,ChineseSimplified,ChineseTraditional,Italian,Russian,Spanish</Program_Language>
-		<Program_Change_Info>Unicode, function filterfor, buttons tooltips, bigger font</Program_Change_Info>
+		<Program_Change_Info>matrices up to a million elements, optimized memory allocation, Unicode, bigger font</Program_Change_Info>
 		<Program_Specific_Category>Business</Program_Specific_Category>
 		<Program_Category_Class>Business::Calculators &amp; Converters</Program_Category_Class>
 		<Program_System_Requirements />
 		<File_Info>
-			<File_Size_Bytes>373292</File_Size_Bytes>
-			<File_Size_K>364</File_Size_K>
-			<File_Size_MB>0.36</File_Size_MB>
+			<File_Size_Bytes>404262</File_Size_Bytes>
+			<File_Size_K>394</File_Size_K>
+			<File_Size_MB>0.39</File_Size_MB>
 		</File_Info>
 		<Expire_Info>
 			<Has_Expire_Info>N</Has_Expire_Info>
